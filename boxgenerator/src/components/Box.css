@@ -1,0 +1,9 @@
+.boxContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .box {
+    margin: 20px;
+    border: 2px solid #000;
+  }
