@@ -1,0 +1,35 @@
+.todo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.checkmark {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.checkmark::after {
+  content: "";
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 3px;
+  border-radius: 50%;
+  background-color: #2196F3;
+  transition: all 0.2s;
+  opacity: 0;
+}
+
+.todo.completed .checkmark::after {
+  transform: scale(1);
+  opacity: 1;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
