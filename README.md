@@ -5,4 +5,4 @@ MERN Stack: MERN is an acronym for MongoDB, Express.js, React.js, and Node.js. I
 
 This GitHub repository, often referred to as a "repo," is a central location where my code is stored and managed. It contains all the files, folders, and version history of projects and assignments. In the context of this repository, it holds the MERN stack applications and assignments for Coding Doko.
 
-For yhe unititiated, Coding Doko is an organization that offers coding courses, tutorials, or assignments. It is a learning resource for developers and community, providing educational materials and practical exercises related to multiple stacks, UX/UI, data science, and cyber security.
+For the unititiated, Coding Doko is an organization that offers coding courses, tutorials, or assignments. It is a learning resource for developers and community, providing educational materials and practical exercises related to multiple stacks, UX/UI, data science, and cyber security.
